@@ -1,0 +1,29 @@
+[
+   {
+      "objectGuid": "6ZZNEc1GAAMhvJNeBAX8gG",
+      "objectName": "m3",
+      "objectType": "DTEMPLATE",
+      "path": "/Explore/odd",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "",
+            "documentState": "INVALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "011KUA17000000000008"
+         }
+      }
+   }
+]
