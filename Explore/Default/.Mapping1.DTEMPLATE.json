@@ -1,0 +1,29 @@
+[
+   {
+      "objectGuid": "5nUXySA3iAvd0Gz0N9smWS",
+      "objectName": "Mapping1",
+      "objectType": "DTEMPLATE",
+      "path": "/Explore/Default",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "",
+            "documentState": "INVALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "011ML817000000000002"
+         }
+      }
+   }
+]
