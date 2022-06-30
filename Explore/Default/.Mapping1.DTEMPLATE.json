@@ -1,6 +1,6 @@
 [
    {
-      "objectGuid": "5nUXySA3iAvd0Gz0N9smWS",
+      "objectGuid": "dTTGOGmZVgObaQZOkRci2h",
       "objectName": "Mapping1",
       "objectType": "DTEMPLATE",
       "path": "/Explore/Default",
@@ -22,7 +22,7 @@
          },
          "objectRefs": [],
          "repoInfo": {
-            "repoHandle": "011ML817000000000002"
+            "repoHandle": "011ML817000000000003"
          }
       }
    }
