@@ -4,7 +4,7 @@
       <types1:EntryId>aaabeBjrabcmWR7-gt-1474747-2022-07-03T11:03:42.011Z::tf.xml</types1:EntryId>
       <types1:Name>tf1</types1:Name>
       <types1:MimeType>application/xml+taskflow</types1:MimeType>
-      <types1:Description/>
+      <types1:Description>tf1</types1:Description>
       <types1:AppliesTo/>
       <types1:Tags/>
       <types1:VersionLabel>1.0</types1:VersionLabel>
@@ -13,8 +13,11 @@
       <types1:CreatedBy>maheswara223</types1:CreatedBy>
       <types1:CreationDate>2022-07-03T11:03:42Z</types1:CreationDate>
       <types1:ModifiedBy>maheswara223</types1:ModifiedBy>
-      <types1:ModificationDate>2022-07-03T11:19:33Z</types1:ModificationDate>
-      <types1:PublicationStatus>unpublished</types1:PublicationStatus>
+      <types1:ModificationDate>2022-07-03T14:48:20Z</types1:ModificationDate>
+      <types1:PublicationStatus>out-of-date</types1:PublicationStatus>
+      <types1:PublishedBy>maheswara223</types1:PublishedBy>
+      <types1:PublicationDate>2022-07-03T14:35:39Z</types1:PublicationDate>
+      <types1:PublishedContributionId>project:/tf.tf1/tf1.tf.xml</types1:PublishedContributionId>
       <types1:AutosaveExists>false</types1:AutosaveExists>
       <types1:Entry>
          <taskflow xmlns="http://schemas.active-endpoints.com/appmodules/screenflow/2010/10/avosScreenflow.xsd"
@@ -25,7 +28,7 @@
                    overrideAPIName="false">
             <parameterSet xmlns="http://schemas.active-endpoints.com/appmodules/screenflow/2021/04/taskflowModel.xsd"/>
             <appliesTo/>
-            <description/>
+            <description>tf1</description>
             <tags/>
             <generator>Informatica Process Designer 11</generator>
             <notes/>
@@ -57,5 +60,5 @@
       <types1:GUID>0SNSfbD9r6pfgplAGQEFkv</types1:GUID>
       <types1:DisplayName>tf1</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2022-07-03T11:32:43.805Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2022-07-03T14:48:36.592Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>
