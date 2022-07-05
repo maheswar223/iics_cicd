@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "70M04zosx0wjc0vytVIDMD",
+    "name" : "tf4",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "Gjx9AWbg0ZkL0jm-gt-2080310-2022-07-05T06:17:48.521Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "tf4",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ ]
+}
